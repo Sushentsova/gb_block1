@@ -1,0 +1,15 @@
+/Users/natalya_sush/gb/gb_block1/bin/Debug/net8.0/gb_block1
+/Users/natalya_sush/gb/gb_block1/bin/Debug/net8.0/gb_block1.deps.json
+/Users/natalya_sush/gb/gb_block1/bin/Debug/net8.0/gb_block1.runtimeconfig.json
+/Users/natalya_sush/gb/gb_block1/bin/Debug/net8.0/gb_block1.dll
+/Users/natalya_sush/gb/gb_block1/bin/Debug/net8.0/gb_block1.pdb
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.AssemblyInfoInputs.cache
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.AssemblyInfo.cs
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.csproj.CoreCompileInputs.cache
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.sourcelink.json
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.dll
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/refint/gb_block1.dll
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.pdb
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/gb_block1.genruntimeconfig.cache
+/Users/natalya_sush/gb/gb_block1/obj/Debug/net8.0/ref/gb_block1.dll
