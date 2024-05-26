@@ -61,7 +61,7 @@ string[] ThreeSymbolsArray(string[] arr)
     return result;
 }
 
-string [] user_arr = FillArray();
-PrintArray(user_arr);
-string[] result = ThreeSymbolsArray(user_arr);
+string [] userArr = FillArray();
+string[] result = ThreeSymbolsArray(userArr);
+PrintArray(userArr);
 PrintArray(result);
